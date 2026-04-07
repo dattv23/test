@@ -1,0 +1,12 @@
+{
+  "name": "request-echo-server",
+  "version": "1.0.0",
+  "description": "Node.js server that logs and returns every incoming request",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
